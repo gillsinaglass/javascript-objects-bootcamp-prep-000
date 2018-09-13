@@ -3,7 +3,6 @@ var playlist = {
   'My Bloody Valentine' : 'Sometimes',
   }
 function updatePlaylist(obj,key,value) {
-  playlist['Phil Ochs'] = 
-  return
-  playlist
+  playlist['Phil Ochs'] = `Here's to the State of Mississippi`
+  return playlist
 }
